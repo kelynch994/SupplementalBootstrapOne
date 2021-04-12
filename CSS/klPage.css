@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bg-dark{
+	background-color: #c4b2a7 !important;
+}
+
+.c-container{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.c-carousel-caption{
+	color: #000;
+}
+
+.text-container{
+	max-width: 1000px
+}
+
+.front-page-text{
+	padding-top: 20px;
+}
+
+.footer{
+	background-color: #c4b2a7;
+	height: 60px;
+	color: #eee;
+	font-size: .8rem;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.control-width{
+	max-width: 1200px;
+}
+
+.card-container{
+	margin-bottom: 20px;
+}
+
+.card-footer-ka{
+	height: 60px;
+}
+
+.btn-primary{
+	background-color: transparent;
+	color: #202529;
+	border-color: #c4b2a7;
+}
+
+.btn-primary:hover{
+	color: #fff;
+	background-color: #c4b2a7;
+	border-color: #c4b2a7;
+}
+
+.modal-content{
+	text-align: center;
+}
